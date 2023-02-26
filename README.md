@@ -3,7 +3,7 @@
 <img width="100" src="https://komarev.com/ghpvc/?username=parismita&color=ff69b4" alt="logo">
 </p>
 <p align="center">
-<img width="100" src="https://komarev.com/ghpvc/?username=parismita&color=ff69b4" alt="logo">
+<img width="100" src="https://github.com/parismita/parismita/blob/main/icegif-449.gif" alt="logo">
 </p>
 
 <h1 align="center">About Me ✨</h1>
@@ -12,7 +12,7 @@ I am Parismita Das and I am currently pursuing my Masters of Technology in Compu
 
 <h1 align="center">Thanks for visiting 💕</h1>
 <p align="center">
-<img width="100" src="https://komarev.com/ghpvc/?username=parismita&color=ff69b4" alt="logo">
+<img width="100" src="https://github.com/parismita/parismita/blob/main/thanks-icegif.gif" alt="logo">
 </p>
 <!--
 **parismita/parismita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
